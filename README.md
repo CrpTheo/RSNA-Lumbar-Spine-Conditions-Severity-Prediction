@@ -76,6 +76,8 @@ Feed these crops into the ViT models for severity prediction across five lumbar 
 
 Note that all these notebooks were run on Kaggle and that even though I tried to adapt a few of them for this Git, most of the paths are still in Kaggle format. Some notebooks also comport pip installation cells that you may want to remove before running locally.
 
+This code is also very repetitive and could use generalization, it was just an easier way to organize the output and model saves this way during the competition.
+
 
 ## Final Thoughts
 
